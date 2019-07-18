@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sj_12/practice/task/auto_logs.hpp
+iostream
+-
+fstream
+-
+string
+-
+map
+-
+vector
+-
+chrono
+-
+ctime
+-
+iomanip
+-
+boost/filesystem.hpp
+-
+
+/home/sj_12/practice/task/main.cpp
+auto_logs.hpp
+/home/sj_12/practice/task/auto_logs.hpp
+

@@ -1,0 +1,3 @@
+/home/sj_12/practice/task/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/sj_12/practice/task/cmake-build-debug/CMakeFiles/task.dir
+/home/sj_12/practice/task/cmake-build-debug/CMakeFiles/edit_cache.dir

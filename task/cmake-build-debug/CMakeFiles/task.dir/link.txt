@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/task.dir/main.cpp.o CMakeFiles/task.dir/auto_logs.cpp.o  -o task /usr/lib/x86_64-linux-gnu/libboost_system.so /usr/lib/x86_64-linux-gnu/libboost_filesystem.so 

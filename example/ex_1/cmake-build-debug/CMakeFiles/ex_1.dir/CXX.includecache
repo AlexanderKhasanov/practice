@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sj_12/practice/example/ex_1/main.cpp
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+PCSC/wintypes.h
+-
+PCSC/pcsclite.h
+-
+PCSC/winscard.h
+-
+
